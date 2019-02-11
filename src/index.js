@@ -10,8 +10,6 @@ import Footer from "./components/footer";
 import SidebarWithImage from "./components/sidebar.with.image";
 import MenuIcon from "./components/menu.icon";
 import PageContent from "./components/page.content";
-import openNav from "./components/open.nav";
-import closeNav from "./components/close.nav";
 import HiddenSidebar from "./components/hidden.sidebar";
 import { Link } from "react-router-dom";
 
