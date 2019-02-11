@@ -1,0 +1,10 @@
+/* .hidden-sidebar-nav {
+  display: none;
+  padding-top: 150px;
+  right: 0;
+  z-index: 2;
+} */
+
+.hidden-sidebar-link {
+  padding: 0 12px;
+}
