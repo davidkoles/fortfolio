@@ -18,9 +18,12 @@ import { Link } from "react-router-dom";
 import "./styles.css";
 
 class App extends React.Component {
-  state = {
-    isNavVisible: false
-  };
+  constructor() {
+    super();
+    this.state = {
+      isNavVisible: false
+    };
+  }
 
   toggleNavVisibility = () => {
     this.setState({
